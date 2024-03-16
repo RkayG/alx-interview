@@ -9,7 +9,6 @@ def canUnlockAll(boxes):
     determines if all the boxes can be opened
     """
 
-
     if not boxes:
         return False
 
